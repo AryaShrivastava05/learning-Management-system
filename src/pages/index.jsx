@@ -1,0 +1,13 @@
+export { default as Courses } from './Courses';
+export { default as Calendar } from './Calendar';
+export { default as ColorPicker } from './ColorPicker';
+export { default as Discussion } from './Discussion';
+export { default as Editor } from './Editor';
+export { default as Liveclasses  } from './Liveclasses';
+export { default as Transaction } from './Transaction';
+export { default as Students } from './Students';
+export { default as Schedules } from './Schedules';
+export { default as Memberships } from './Memberships';
+export { default as Area } from './Charts/Area';
+export { default as Bar } from './Charts/Bar';
+export { default as Line } from './Charts/Line';
